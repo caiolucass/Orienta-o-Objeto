@@ -1,0 +1,12 @@
+C:\Temp\Carro\Carro\bin\Debug\Carro.exe.config
+C:\Temp\Carro\Carro\bin\Debug\Carro.exe
+C:\Temp\Carro\Carro\bin\Debug\Carro.pdb
+C:\Temp\Carro\Carro\obj\Debug\Carro.csprojResolveAssemblyReference.cache
+C:\Temp\Carro\Carro\obj\Debug\Carro.exe
+C:\Temp\Carro\Carro\obj\Debug\Carro.pdb
+C:\Users\1074742\Downloads\Carro\Carro\bin\Debug\Carro.exe.config
+C:\Users\1074742\Downloads\Carro\Carro\obj\Debug\Carro.exe
+C:\Users\1074742\Downloads\Carro\Carro\obj\Debug\Carro.pdb
+C:\Users\1074742\Downloads\Carro\Carro\bin\Debug\Carro.exe
+C:\Users\1074742\Downloads\Carro\Carro\bin\Debug\Carro.pdb
+C:\Users\1074742\Downloads\Carro\Carro\obj\Debug\Carro.csprojResolveAssemblyReference.cache

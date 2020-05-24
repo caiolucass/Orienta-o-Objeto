@@ -1,0 +1,6 @@
+C:\Temp\Date5\Date5\bin\Debug\Date5.exe.config
+C:\Temp\Date5\Date5\bin\Debug\Date5.exe
+C:\Temp\Date5\Date5\bin\Debug\Date5.pdb
+C:\Temp\Date5\Date5\obj\Debug\Date5.csprojResolveAssemblyReference.cache
+C:\Temp\Date5\Date5\obj\Debug\Date5.exe
+C:\Temp\Date5\Date5\obj\Debug\Date5.pdb

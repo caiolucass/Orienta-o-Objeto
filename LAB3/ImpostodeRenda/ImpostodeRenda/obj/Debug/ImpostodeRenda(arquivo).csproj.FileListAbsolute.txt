@@ -1,0 +1,21 @@
+C:\Temp\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).exe.config
+C:\Users\caiolucas\Pictures\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).csprojAssemblyReference.cache
+C:\Users\caiolucas\Pictures\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).csproj.CoreCompileInputs.cache
+C:\Users\caiolucas\Pictures\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).exe.config
+C:\Users\caiolucas\Pictures\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).exe
+C:\Users\caiolucas\Pictures\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).pdb
+C:\Users\caiolucas\Pictures\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).exe
+C:\Users\caiolucas\Pictures\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).pdb
+H:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).csprojAssemblyReference.cache
+H:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).csproj.CoreCompileInputs.cache
+H:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).exe
+H:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).pdb
+H:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).exe.config
+H:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).exe
+H:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).pdb
+E:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).exe.config
+E:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).exe
+E:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).pdb
+E:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\obj\Debug\ImpostodeRenda(arquivo).csprojResolveAssemblyReference.cache
+E:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).exe
+E:\ImpostodeRenda(arquivo Lab3)\ImpostodeRenda(arquivo)\ImpostodeRenda(arquivo)\bin\Debug\ImpostodeRenda(arquivo).pdb

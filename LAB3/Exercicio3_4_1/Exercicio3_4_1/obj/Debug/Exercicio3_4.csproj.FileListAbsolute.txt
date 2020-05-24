@@ -1,0 +1,7 @@
+C:\Users\berna\source\repos\Exercicio3_4\Exercicio3_4\bin\Debug\Exercicio3_4.exe.config
+C:\Users\berna\source\repos\Exercicio3_4\Exercicio3_4\bin\Debug\Exercicio3_4.exe
+C:\Users\berna\source\repos\Exercicio3_4\Exercicio3_4\bin\Debug\Exercicio3_4.pdb
+C:\Users\berna\source\repos\Exercicio3_4\Exercicio3_4\obj\Debug\Exercicio3_4.csprojAssemblyReference.cache
+C:\Users\berna\source\repos\Exercicio3_4\Exercicio3_4\obj\Debug\Exercicio3_4.csproj.CoreCompileInputs.cache
+C:\Users\berna\source\repos\Exercicio3_4\Exercicio3_4\obj\Debug\Exercicio3_4.exe
+C:\Users\berna\source\repos\Exercicio3_4\Exercicio3_4\obj\Debug\Exercicio3_4.pdb

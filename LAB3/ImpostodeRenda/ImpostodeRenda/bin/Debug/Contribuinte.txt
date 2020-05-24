@@ -1,0 +1,6 @@
+PF;11111;Joao Santos;Rua abc,123;3000.00
+PJ;10055;Lojas AA;Rua Hum,11;150000.00
+PF;22222;Maria Soares;Av.Xyz,777;5000.00
+PJ;10066;Supermercados B;Rua Dois,987;2000000.00
+PF;33333;Carla Maia;Av.Três,333;1500.00
+PJ;10077;Posto XX;Rua Cinco,555;500000.00

@@ -1,0 +1,6 @@
+C:\Temp\ImpostodeRenda\ImpostodeRenda\bin\Debug\ImpostodeRenda.exe.config
+C:\Temp\ImpostodeRenda\ImpostodeRenda\obj\Debug\ImpostodeRenda.csprojResolveAssemblyReference.cache
+C:\Temp\ImpostodeRenda\ImpostodeRenda\bin\Debug\ImpostodeRenda.exe
+C:\Temp\ImpostodeRenda\ImpostodeRenda\bin\Debug\ImpostodeRenda.pdb
+C:\Temp\ImpostodeRenda\ImpostodeRenda\obj\Debug\ImpostodeRenda.exe
+C:\Temp\ImpostodeRenda\ImpostodeRenda\obj\Debug\ImpostodeRenda.pdb

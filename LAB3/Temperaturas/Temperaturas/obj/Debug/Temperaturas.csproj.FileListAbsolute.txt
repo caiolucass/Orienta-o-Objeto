@@ -1,0 +1,15 @@
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csprojAssemblyReference.cache
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\MainWindow.g.cs
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\App.g.cs
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas_MarkupCompile.cache
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas_MarkupCompile.lref
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe.config
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.pdb
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\MainWindow.baml
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.g.resources
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.Properties.Resources.resources
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.GenerateResource.cache
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.exe
+C:\Users\berna\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.pdb
